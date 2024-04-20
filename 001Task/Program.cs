@@ -74,7 +74,7 @@ Console.WriteLine(" Good look 😊😊😊 ");
 
 // foreach (var item in query)
 // {
-//     System.Console.WriteLine($"{item.Country} {item.Population.Name}");
+//     System.Console.WriteLine($"{item.Country} {item.Population.Name} {item.Population.Population}");
 // }
 //5
 //Получить все города, в которых есть человек по имени "Марк".
